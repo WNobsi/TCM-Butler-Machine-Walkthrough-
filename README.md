@@ -1,7 +1,6 @@
-# Butler - VulnHub Walkthrough
+# Butler - TCM Machine Walkthrough
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-VulnHub-red">
   <img src="https://img.shields.io/badge/Difficulty-Easy%20to%20Medium-green">
   <img src="https://img.shields.io/badge/OS-Windows-blue">
   <img src="https://img.shields.io/badge/Status-SYSTEM-success">
