@@ -1,5 +1,7 @@
 # Butler - TCM Machine Walkthrough
 
+(Note: The non-technical executive summary pdf for the business impact and remediation is also attached in the github repository.)
+
 <p align="center">
   <img src="https://img.shields.io/badge/Difficulty-Easy%20to%20Medium-green">
   <img src="https://img.shields.io/badge/OS-Windows-blue">
@@ -270,6 +272,8 @@ The assessment reinforces an important penetration testing principle:
 # References
 
 - MITRE ATT&CK T1574.009 – Path Interception by Unquoted Path
+https://attack.mitre.org/techniques/T1574/009/
 - PEASS-ng Project
-- Jenkins Documentation
+https://github.com/peass-ng/PEASS-ng/releases
 - OWASP Testing Guide
+https://owasp.org/www-project-web-security-testing-guide/latest/3-The_OWASP_Testing_Framework/1-Penetration_Testing_Methodologies
